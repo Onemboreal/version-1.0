@@ -1,0 +1,40 @@
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="53.5px" height="70.6px" viewBox="0 0 53.5 70.6" enable-background="new 0 0 53.5 70.6"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="XMLID_1_" d="M52.2,32.9c4.2,19.2-3.4,34.3-16.4,37.2c-13,2.9-26.4-7.6-30.6-26.8S4.3,3.8,20.6,0.4
+					C36.5-2.9,48,13.7,52.2,32.9z"/>
+			</defs>
+			
+				<radialGradient id="XMLID_2_" cx="-103.0687" cy="373.6241" r="138.3897" gradientTransform="matrix(0.877 -0.3582 0.366 1.0234 -13.2858 -407.9199)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			<use xlink:href="#XMLID_1_"  overflow="visible" fill="url(#XMLID_2_)"/>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_1_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M34.3,34.1c1,4.7-1.4,9.2-5.3,10c-3.9,0.9-7.9-2.2-8.9-6.8
+				c-1-4.7,1.4-9.2,5.3-10C29.3,26.4,33.3,29.4,34.3,34.1z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M9.5,41.2c0.8,3.9-0.5,7.6-3.1,8.1s-5.3-2.1-6.1-6s0.5-7.6,3.1-8.1
+				S8.6,37.3,9.5,41.2z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M53.1,61.1c-1.2,3.4-4.3,5.4-6.9,4.5c-2.6-0.9-3.8-4.4-2.6-7.7
+				c1.2-3.4,4.3-5.4,6.9-4.5S54.3,57.7,53.1,61.1z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M25.9,56.8c2.3,2.9,2.3,6.8-0.1,8.8c-2.4,2-6.2,1.2-8.6-1.7s-2.3-6.8,0.1-8.8
+				S23.6,53.9,25.9,56.8z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M44.3,12.8c1.8,2.8,1.7,6.2-0.3,7.4c-2,1.3-5,0-6.8-2.8s-1.7-6.2,0.3-7.4
+				S42.5,10,44.3,12.8z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#66CCFF" d="M14.3,11.8c-1.5,2.7-4.2,4-6.1,2.9s-2.2-4-0.7-6.7s4.2-4,6.1-2.9
+				S15.8,9.1,14.3,11.8z"/>
+		</g>
+	</g>
+	<path fill="#FFFFFF" d="M37.2,7.2c-1.2-2.8-4.5-4.1-7.4-2.9s-4.2,4.4-3,7.2c1.2,2.8,4.5,4.1,7.4,2.9S38.4,10,37.2,7.2z"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="60.4px" height="87.1px" viewBox="0 0 60.4 87.1" enable-background="new 0 0 60.4 87.1"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<g>
+			<defs>
+				<path id="XMLID_1_" d="M57.7,53.2c-6,22.8-22.3,34.8-37.7,30.7s-24-22.5-18-45.3S22.3-4,41.7,1.3C60.4,6.4,63.7,30.4,57.7,53.2z
+					"/>
+			</defs>
+			
+				<radialGradient id="XMLID_2_" cx="-63.2257" cy="312.275" r="165.7682" gradientTransform="matrix(0.944 7.980134e-02 -0.1395 1.0778 152.2133 -311.8058)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			<use xlink:href="#XMLID_1_"  overflow="visible" fill="url(#XMLID_2_)"/>
+			<clipPath id="XMLID_3_">
+				<use xlink:href="#XMLID_1_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#XMLID_3_)" fill="#FF9900" d="M56.9,45.9c-2.3,8.7-9.5,14.4-16.1,12.7c-6.6-1.7-10-10.1-7.7-18.7
+				s9.5-14.4,16.1-12.7C55.8,28.8,59.2,37.2,56.9,45.9z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#FF9900" d="M50.7,80.4c-4.2,4-10,4.6-13,1.5c-3-3.1-2.1-8.8,2.1-12.8
+				c4.2-4,10-4.6,13-1.5C55.8,70.7,54.9,76.5,50.7,80.4z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#FF9900" d="M18,38.5c-1.4,5.5-5.6,9.1-9.4,8.2C4.9,45.8,3,40.6,4.5,35.1s5.6-9.1,9.4-8.2
+				C17.6,27.9,19.4,33.1,18,38.5z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#FF9900" d="M29.8,15c-4.7,3.8-10.7,4.1-13.4,0.8s-1-9,3.7-12.8s10.7-4.1,13.4-0.8
+				C36.2,5.5,34.6,11.3,29.8,15z"/>
+			<path clip-path="url(#XMLID_3_)" fill="#FF9900" d="M22.8,67.1c5.1,6.5,5.5,14.7,1,18.3s-12.3,1.2-17.4-5.3
+				c-5.1-6.5-5.5-14.7-1-18.3S17.8,60.6,22.8,67.1z"/>
+		</g>
+	</g>
+	<path fill="#FFFFFF" d="M55.7,17.6c0.3-3.7-2.5-6.9-6.2-7.2c-3.7-0.3-6.9,2.4-7.2,6.1s2.5,6.9,6.2,7.2C52.2,24,55.4,21.3,55.7,17.6
+		z"/>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="85.1px" height="31.2px" viewBox="0 0 85.1 31.2" enable-background="new 0 0 85.1 31.2"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<defs>
+			<polygon id="XMLID_2_" points="0,16.2 4.6,3.5 14.3,0 21,3.9 25.1,9 26.6,10.9 28,12.8 26.8,17 13.9,19.7 			"/>
+		</defs>
+		<use xlink:href="#XMLID_2_"  overflow="visible" fill="#989898"/>
+		<clipPath id="XMLID_3_">
+			<use xlink:href="#XMLID_2_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<path fill="#989898" d="M12.9,6.3"/>
+	<polygon fill="#CCCBCB" points="4.6,3.5 6,10.9 11.5,12.2 13.3,7.1 20,9.5 21,3.9 14.3,0 	"/>
+</g>
+<g>
+	<g>
+		<defs>
+			<polygon id="XMLID_1_" points="43.5,27.5 48.9,12.7 69.1,8.2 76.9,12.8 81.7,18.7 83.4,20.9 85.1,23.2 83.7,28.1 68.5,31.2 			
+				"/>
+		</defs>
+		<use xlink:href="#XMLID_1_"  overflow="visible" fill="#989898"/>
+		<clipPath id="XMLID_4_">
+			<use xlink:href="#XMLID_1_"  overflow="visible"/>
+		</clipPath>
+	</g>
+	<path fill="#989898" d="M67.4,15.5"/>
+	<polygon fill="#CCCBCB" points="48.9,12.7 52.7,17.2 58.9,15.5 67.9,16.5 72.2,15.5 76.9,12.8 69.1,8.2 	"/>
+</g>
+</svg>
